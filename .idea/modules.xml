@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructureForJava.iml" filepath="$PROJECT_DIR$/.idea/DataStructureForJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-linerlist/ds-linerlist.iml" filepath="$PROJECT_DIR$/ds-linerlist/ds-linerlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-sort/ds-sort.iml" filepath="$PROJECT_DIR$/ds-sort/ds-sort.iml" />
+    </modules>
+  </component>
+</project>
